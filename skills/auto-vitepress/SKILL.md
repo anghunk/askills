@@ -1,18 +1,6 @@
 ---
 name: auto-vitepress
 description: 自动为当前项目生成或更新 VitePress 文档网站。
-
-## 安装
-
-通过 askills 安装：
-
-```bash
-# 本地安装
-askills install auto-vitepress
-
-# 全局安装
-askills install auto-vitepress -g
-```
 ---
 
 # 自动生成 VitePress 文档
@@ -69,7 +57,7 @@ askills install auto-vitepress -g
         description: '项目描述',
         themeConfig: {
           // Logo（如果找到图片则设置，否则使用 VitePress 官方默认 logo）
-          logo: '/logo路径.png', // 或不设置此属性使用默认 logo
+          logo: '/logo 路径.png', // 或不设置此属性使用默认 logo
           // 顶部导航
           nav: [
             { text: '首页', link: '/' },
@@ -131,10 +119,10 @@ askills install auto-vitepress -g
             link: /guide/how-to-use
 
       features:
-        - title: 特性1
-          details: 特性1的描述
-        - title: 特性2
-          details: 特性2的描述
+        - title: 特性 1
+          details: 特性 1 的描述
+        - title: 特性 2
+          details: 特性 2 的描述
       ---
       ```
 3.  **添加 NPM 脚本**:
