@@ -1,6 +1,6 @@
 {
   "name": "askills",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Some Claude Code Skills tools",
   "main": "index.js",
   "author": "anghunk",

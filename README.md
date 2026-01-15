@@ -2,6 +2,8 @@
 
 一些 Claude Code Skills Skills 工具。
 
+[文档地址](https://askills.pages.dev)
+
 ## 安装
 
 ```bash
