@@ -54,4 +54,4 @@ askills install auto-vitepress -g
 
 ## License
 
-[Apache License 2.0](./LICENSE)
+Apache License 2.0
