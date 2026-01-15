@@ -1,6 +1,6 @@
 # My Skills
 
-一个为 Claude Code 集成的 Skills 库。
+自用总结的一些 skills 技能工具。
 
 ## How use?
 
