@@ -1,0 +1,27 @@
+{
+  "name": "my-skills",
+  "version": "1.0.0",
+  "description": "自用总结的一些 skills 技能工具。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anghunk/my-skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anghunk/my-skills/issues"
+  },
+  "homepage": "https://github.com/anghunk/my-skills#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.26"
+  }
+}
