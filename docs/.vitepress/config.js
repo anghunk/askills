@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
 	title: 'askills',
 	description: '一些 Claude Code Skills 工具',
+	cacheDir: '../../node_modules/.vitepress-cache',
 	themeConfig: {
 		// Logo（未找到图片，使用 VitePress 官方默认 logo）
 		// 顶部导航
